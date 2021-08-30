@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CodingChallenge</string>
+    <string name="inaugural_date">Inaugural Date</string>
+    <string name="crew">Crew</string>
+    <string name="passenger_capacity">Passenger Capacity</string>
+    <string name="ship_name">Ship name</string>
+    <string name="bliss">BLISS</string>
+    <string name="sky">SKY</string>
+    <string name="escape">ESCAPE</string>
+</resources>
